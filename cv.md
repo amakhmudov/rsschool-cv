@@ -10,6 +10,7 @@
 ---
 
 ##Who I am?
+
 Hello, I'm [Alisher Makhmudov](https://alishermakhmudov.com), Front-end Developer from Tashkent, Uzbekistan.
 
 I am working remotely for foreign company with already 10+ years of professional experience mostly in HTML, CSS and JavaScript (_i'm strong in HTML, CSS more than in JS_).
@@ -32,6 +33,8 @@ I'm here at RSSchool to learn new skills **mostly in JavaScript, React and GIT**
 - BEM
 - SMACSS
 - OOCSS
+
+---
 
 ##Code sample
 
